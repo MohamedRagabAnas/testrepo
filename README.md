@@ -1,2 +1,2 @@
 # testrepo
-cicdTestsCoursera
+ci/cd Tests Coursera
